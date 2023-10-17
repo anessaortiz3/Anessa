@@ -11,3 +11,8 @@
 * Linux Command Line,
 * Github
 
+## Skills to obtain
+* Python
+* C
+* Java
+* Javascript
