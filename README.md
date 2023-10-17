@@ -7,7 +7,7 @@
 ## Courses Completed
 
 ### Try It Courses
-Intro to Cyber Security, 
-Linux Command Line,
-Github
+* Intro to Cyber Security, 
+* Linux Command Line,
+* Github
 
